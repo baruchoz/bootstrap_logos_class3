@@ -1,0 +1,13 @@
+.container{
+    background-color: solid gray;
+}
+
+.logo-wrapper{
+    border: solid 1px black;
+    height: 200px;
+    
+}
+
+.logo-wrapper img{
+    max-height: 100px;
+}
